@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/javax-inject.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/mysql-connector-java-5.1.12.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-aop-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-beans-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-context-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-core-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-expression-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-jdbc-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-tx-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-web-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-webflux-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/SpringJars/lib/spring-webmvc-5.0.0.RC1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
